@@ -1,3 +1,4 @@
 # Achievements
 
-Academic
+- Academic
+- Non Academic
