@@ -5,3 +5,4 @@
 - Non Technical
 - Certifications
 - Non Academic
+- Badges
